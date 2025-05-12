@@ -89,5 +89,5 @@ RunService.RenderStepped:Connect(function()
     end
 end)
 
-print("Basic Aimbot Script (Educational) Loaded.")
+print("vert's retarded aimbot loaded.... penaur sniffing penaur")
 print("Toggle Key:", AIM_KEY)
